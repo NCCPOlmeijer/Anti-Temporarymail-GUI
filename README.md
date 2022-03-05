@@ -24,11 +24,11 @@ the instance from the voting file, leaving the resultant file free of unlegitima
 
 The format of the submitted voting file must be:
 
-+-----------+-----------------+-----------------+--------------+-----------------+---------+--------------+------------+
-|   email   |     team_1      |     team_2      |  voter_name  |  voter_country  |  group  |  university  |  relation  |
-+-----------+-----------------+-----------------+--------------+-----------------+---------+--------------+------------+
-| address 1 | fst_team_name 1 | scd_team_name 1 | name_voter 1 | country_voter 1 | group 1 | university 1 | relation 1 |
-| address 2 | fst_team_name 2 | scd_team_name 2 | name_voter 2 | country_voter 2 | group 2 | university 2 | relation 2 |
-| address 3 | fst_team_name 3 | scd_team_name 3 | name_voter 3 | country_voter 3 | group 3 | university 3 | relation 3 |
-| ...       | ...             | ...             | ...          | ...             | ...     | ...          | ...        |
-+-----------+-----------------+-----------------+--------------+-----------------+---------+--------------+------------+
+<!-- +-----------+-----------------+-----------------+--------------+-----------------+---------+--------------+------------+ -->
+<!-- |   email   |     team_1      |     team_2      |  voter_name  |  voter_country  |  group  |  university  |  relation  | -->
+<!-- +-----------+-----------------+-----------------+--------------+-----------------+---------+--------------+------------+ -->
+<!-- | address 1 | fst_team_name 1 | scd_team_name 1 | name_voter 1 | country_voter 1 | group 1 | university 1 | relation 1 | -->
+<!-- | address 2 | fst_team_name 2 | scd_team_name 2 | name_voter 2 | country_voter 2 | group 2 | university 2 | relation 2 | -->
+<!-- | address 3 | fst_team_name 3 | scd_team_name 3 | name_voter 3 | country_voter 3 | group 3 | university 3 | relation 3 | -->
+<!-- | ...       | ...             | ...             | ...          | ...             | ...     | ...          | ...        | -->
+<!-- +-----------+-----------------+-----------------+--------------+-----------------+---------+--------------+------------+ -->
