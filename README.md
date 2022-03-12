@@ -19,8 +19,8 @@ dea_database.xlsx is an Excel file containing mail servers that are marked for t
 address utilization.
 
 The provided program, both in .py and .exe format, uses dea_database.xlsx to check if the
-submitted votes are legitimate. If a submitted vote is unlegitimate, the program will remove
-the instance from the voting file, leaving the resultant file free of unlegitimate votes.
+submitted votes are legitimate. If a submitted vote is illegitimate, the program will remove
+the instance from the voting file, leaving the resultant file free of illegitimate votes.
 
 The format of the submitted voting file must be:
 
